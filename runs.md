@@ -3,7 +3,7 @@ ChatGPT 4:
 
 |Model    |Magic|
 |---------|:---:|
-|ChatGPT 4|(Fail)[https://chat.openai.com/share/a4049c14-0515-4652-8f60-872346bf372b]|
+|ChatGPT 4|[Fail](https://chat.openai.com/share/a4049c14-0515-4652-8f60-872346bf372b) - not a novel method|
 
 Magic Prompt:
 ```
